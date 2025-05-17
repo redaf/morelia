@@ -1,0 +1,3 @@
+[submodule "USINE-SDK-PUBLIC"]
+	path = USINE-SDK-PUBLIC
+	url = https://github.com/brainmodular/USINE-SDK-PUBLIC.git
